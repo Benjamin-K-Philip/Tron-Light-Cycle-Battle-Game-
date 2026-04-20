@@ -65,6 +65,21 @@ The project is organized as a modular script utilizing the Pyxel package for har
 
 ---
 
+
+## Output
+
+**Main Menu**
+<img width="1366" height="718" alt="Screenshot (7825)" src="https://github.com/user-attachments/assets/0ab04698-f748-4f36-821e-9e98380ce1d0" />
+<br><br>
+
+**Instructions on how to play the game**
+<img width="1366" height="718" alt="Screenshot (7826)" src="https://github.com/user-attachments/assets/1e919a3b-9c4e-4461-a96a-e395e5180ad2" />
+<br><br>
+
+
+
+---
+
 ## Demonstration - How the Game Works 
 <img width="800" height="421" alt="Tron GIF-refer this" src="https://github.com/user-attachments/assets/581f3da7-6c21-40a6-870b-d52c07ed1ef9" />
 
