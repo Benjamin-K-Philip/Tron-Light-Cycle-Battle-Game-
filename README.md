@@ -24,7 +24,7 @@ For the "System" opponent, the code implements a heuristic-based AI:
 
 **Flood Fill Algorithm:** To prevent the AI from trapping itself, it uses a simplified flood_count to "look ahead" and calculate how much empty space is available in a given direction.
 
-**Evaluation Function:** The AI scores potential moves based on a weighted formula:
+**Evaluation Function:** The AI scores potential moves based on a weighted formula: <br>
                _**Score = Area + AttackBias + WallBias + StraightBonus + Randomness**_
 
 Survival Instinct: It prioritizes moves that maximize reachable space while maintaining a slight bias toward staying near the player to force a "cut-off" maneuver.
