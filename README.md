@@ -71,7 +71,7 @@ The project is organized as a modular script utilizing the Pyxel package for har
 
 **Main Menu**
 <img width="1366" height="718" alt="Screenshot (7825)" src="https://github.com/user-attachments/assets/0ab04698-f748-4f36-821e-9e98380ce1d0" />
-<br><br>
+<br><br><br>
 
 **Instructions on how to play the game**
 <img width="1366" height="718" alt="Screenshot (7826)" src="https://github.com/user-attachments/assets/1e919a3b-9c4e-4461-a96a-e395e5180ad2" />
