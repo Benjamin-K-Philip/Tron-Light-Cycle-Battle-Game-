@@ -63,7 +63,10 @@ The project is organized as a modular script utilizing the Pyxel package for har
 
 ➤ **Constants:** Centralized configuration for the color palette, grid dimensions, and directional vectors.
 
+---
 
+## Demonstration - How the Game Works 
+<img width="800" height="421" alt="Tron GIF-refer this" src="https://github.com/user-attachments/assets/581f3da7-6c21-40a6-870b-d52c07ed1ef9" />
 
 
 
