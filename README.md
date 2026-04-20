@@ -83,6 +83,14 @@ The project is organized as a modular script utilizing the Pyxel package for har
 <img width="1366" height="718" alt="Screenshot (7828)" src="https://github.com/user-attachments/assets/5e087e77-c9f4-4348-af41-35aa0971cf03" />
 <br>
 <img width="1366" height="718" alt="Screenshot (7835)" src="https://github.com/user-attachments/assets/540429c6-a85b-4281-9237-f55cf2c798d7" />
+<br>
+<img width="1366" height="720" alt="Screenshot (7888)" src="https://github.com/user-attachments/assets/29ec2479-cad4-445d-b439-46f35b8766e0" />
+<br>
+<img width="1366" height="720" alt="Screenshot (7892)" src="https://github.com/user-attachments/assets/902b2c14-e4fe-49c7-bf1e-a090679de37b" />
+<br>
+<img width="1366" height="718" alt="Screenshot (7894)" src="https://github.com/user-attachments/assets/4d1ae7ca-635e-4fe2-baa3-49118e1ac242" />
+<br>
+<img width="1366" height="720" alt="Screenshot (7897)" src="https://github.com/user-attachments/assets/8ccd99ea-9323-4cbc-9a72-2f4dd897f0bc" />
 
 <br><br><br>
 
@@ -94,14 +102,6 @@ The project is organized as a modular script utilizing the Pyxel package for har
 <img width="1366" height="718" alt="Screenshot (7832)" src="https://github.com/user-attachments/assets/486760d5-bffc-4355-898d-6dca89719db3" />
 <br>
 <img width="1366" height="718" alt="Screenshot (7834)" src="https://github.com/user-attachments/assets/ae4b58c5-864a-460f-9613-692d22653f22" />
-<br>
-<img width="1366" height="720" alt="Screenshot (7888)" src="https://github.com/user-attachments/assets/29ec2479-cad4-445d-b439-46f35b8766e0" />
-<br>
-<img width="1366" height="720" alt="Screenshot (7892)" src="https://github.com/user-attachments/assets/902b2c14-e4fe-49c7-bf1e-a090679de37b" />
-<br>
-<img width="1366" height="718" alt="Screenshot (7894)" src="https://github.com/user-attachments/assets/4d1ae7ca-635e-4fe2-baa3-49118e1ac242" />
-<br>
-<img width="1366" height="720" alt="Screenshot (7897)" src="https://github.com/user-attachments/assets/8ccd99ea-9323-4cbc-9a72-2f4dd897f0bc" />
 
 ---
 
