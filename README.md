@@ -81,10 +81,7 @@ The project is organized as a modular script utilizing the Pyxel package for har
 <img width="1366" height="718" alt="Screenshot (7827)" src="https://github.com/user-attachments/assets/d16a0440-daa1-4c57-9581-f3922ef7d8c5" />
 
 <img width="1366" height="718" alt="Screenshot (7828)" src="https://github.com/user-attachments/assets/5e087e77-c9f4-4348-af41-35aa0971cf03" />
-
-
-
-
+<br>
 <img width="1366" height="718" alt="Screenshot (7835)" src="https://github.com/user-attachments/assets/540429c6-a85b-4281-9237-f55cf2c798d7" />
 
 <br><br>
