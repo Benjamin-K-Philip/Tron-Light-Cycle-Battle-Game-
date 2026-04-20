@@ -82,8 +82,16 @@ The project is organized as a modular script utilizing the Pyxel package for har
 <img width="1366" height="718" alt="Screenshot (7828)" src="https://github.com/user-attachments/assets/5e087e77-c9f4-4348-af41-35aa0971cf03" />
 
 <img width="1366" height="718" alt="Screenshot (7835)" src="https://github.com/user-attachments/assets/540429c6-a85b-4281-9237-f55cf2c798d7" />
+<br><br>
 
+**Player vs Player**
+<img width="1366" height="720" alt="Screenshot (7830)" src="https://github.com/user-attachments/assets/9bf89b65-caf4-48bb-ab8d-8401294c5f36" />
 
+<img width="1366" height="718" alt="Screenshot (7831)" src="https://github.com/user-attachments/assets/0014d569-a260-4aee-8af6-660ee1179015" />
+
+<img width="1366" height="718" alt="Screenshot (7832)" src="https://github.com/user-attachments/assets/486760d5-bffc-4355-898d-6dca89719db3" />
+
+<img width="1366" height="718" alt="Screenshot (7834)" src="https://github.com/user-attachments/assets/ae4b58c5-864a-460f-9613-692d22653f22" />
 
 ---
 
