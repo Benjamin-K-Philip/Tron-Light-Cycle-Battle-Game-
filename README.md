@@ -69,15 +69,15 @@ The project is organized as a modular script utilizing the Pyxel package for har
 
 ## Output
 
-**Main Menu**
+### Main Menu
 <img width="1366" height="718" alt="Screenshot (7825)" src="https://github.com/user-attachments/assets/0ab04698-f748-4f36-821e-9e98380ce1d0" />
 <br><br><br>
 
-**Instructions on how to play the game**
+### Instructions on how to play the game
 <img width="1366" height="718" alt="Screenshot (7826)" src="https://github.com/user-attachments/assets/1e919a3b-9c4e-4461-a96a-e395e5180ad2" />
 <br><br><br>
 
-**Player vs System**
+### Player vs System
 <img width="1366" height="718" alt="Screenshot (7827)" src="https://github.com/user-attachments/assets/d16a0440-daa1-4c57-9581-f3922ef7d8c5" />
 <br>
 <img width="1366" height="718" alt="Screenshot (7828)" src="https://github.com/user-attachments/assets/5e087e77-c9f4-4348-af41-35aa0971cf03" />
@@ -94,7 +94,7 @@ The project is organized as a modular script utilizing the Pyxel package for har
 
 <br><br><br>
 
-**Player vs Player**
+### Player vs Player
 <img width="1366" height="720" alt="Screenshot (7830)" src="https://github.com/user-attachments/assets/9bf89b65-caf4-48bb-ab8d-8401294c5f36" />
 <br>
 <img width="1366" height="718" alt="Screenshot (7831)" src="https://github.com/user-attachments/assets/0014d569-a260-4aee-8af6-660ee1179015" />
